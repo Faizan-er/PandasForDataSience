@@ -1,4 +1,5 @@
-#PANDAS_FOR_DATA_SCIENCE 
+# PANDAS_FOR_DATA_SCIENCE 
+
 I have performed various preprocessing and visualization mainly using Pandas Functions. I have discussed almost 25 Pandas functions used extensively in the field of Data science.
 
 List of pandas functions/Methods Are:
