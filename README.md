@@ -47,7 +47,7 @@ Finally, Processed Data is saved as "output.csv"
 
 
 
-- regards, 
-- Faizan Shakeel
-- Data Scientist 
-- (Domain: FinTech, EduTech, BioTech-healthcare; Exploring: Entertainment, Arts, Biology and defence and telecommunication)
+regards, \n
+Faizan Shakeel \n
+Data Scientist \n
+(Domain: FinTech, EduTech, BioTech-healthcare; Exploring: Entertainment, Arts, Biology and defence and telecommunication)
