@@ -9,23 +9,26 @@ List of pandas functions/Methods Are:
 3. concat()
 4. select_dtypes()
 5. get_dummies()
+
 6. duplicated()  , drop_duplicated()
 7. set_index
 8. sorting:  sort_values(), sort_index
+
 9. df.loc, df.iloc()
 10. get_group()
 11. groupby()
 12. nsmallest() , nlargest()
-13. nunique()
+
+    
+14. nunique()
 15. fillna()
-16. to_datetime()
-17. value_counts()
+17. to_datetime()
+18. value_counts()
 
-
-18. df_info()
-19. df.describe(include='all').T
-20. df.head()
-21. df[:5]
+19. df_info()
+20. df.describe(include='all').T
+21. df.head()
+22. df[:5]
 21. pd.read_csv()
 22. df.drop(['features'], axis=1, inplace = True)
 23. df.isnull().sum
